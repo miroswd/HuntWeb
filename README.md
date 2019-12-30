@@ -2,7 +2,7 @@
 
 <strong>Nesse módulo, foi aprendido:</strong>
 <ul>
-<li>Princípios básicos do react</li>
+<li>Princípios básicos do React</li>
 <li>Componetização</li>
 <li>Roteamento com react-router</li>
 <li>Ciclos de vida</li>
