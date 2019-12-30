@@ -10,6 +10,7 @@
 </ul>
 
 <h3>Para executar:</h3>
+
 ```js
-  yarn start # Será aberta uma página localhost:3000
+  yarn start # Será aberta uma página htpp://localhost:3000
 ```
